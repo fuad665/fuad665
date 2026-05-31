@@ -1,5 +1,9 @@
-# <div align="center">Fuad Hiybo Hussin</div>
-<h3 align="center">🚀 Full-Stack Software Developer (Frontend & Backend)</h3>
+<div align="center">
+  <!-- Animated Profile Banner -->
+  <img src="./banner.svg" width="100%" alt="Fuad Hiybo Profile Banner" />
+</div>
+
+<br />
 
 <div align="center">
   <p>
@@ -9,17 +13,10 @@
     📞 <strong>+60 17-935 9120 (Calls)</strong>
   </p>
   <p>
-    🔗 <a href="https://linkedin.com/in/fuad-hiyabo">LinkedIn Profile</a> &nbsp;•&nbsp;
-    🔗 <a href="https://github.com/fuad665">GitHub Portfolio</a> &nbsp;•&nbsp;
-    💼 <img src="https://img.shields.io/badge/Open_To_Work-emerald?style=flat-square" alt="Status" />
+    <a href="https://linkedin.com/in/fuad-hiyabo">LinkedIn</a> &nbsp;•&nbsp;
+    <a href="https://github.com/fuad665">GitHub</a> &nbsp;•&nbsp;
+    <img src="https://img.shields.io/badge/Open_To_Work-emerald?style=flat-square" alt="Status" />
   </p>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Animated Profile Banner -->
-  <img src="./banner.svg" width="100%" alt="Fuad Hiyabo Profile Banner" />
 </div>
 
 <br />
@@ -161,11 +158,11 @@
     <tr align="center">
       <td>
         <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=fuad665&show_icons=true&theme=dark&hide_border=true&bg_color=080c14&title_color=60a5fa&icon_color=34d399&text_color=94a3b8" alt="Stats" height="190" />
+        <img src="https://github-readme-stats.vercel.app/api?username=fuad665&show_icons=true&hide_border=true&bg_color=020617&title_color=06b6d4&icon_color=10b981&text_color=94a3b8" alt="Stats" height="190" />
       </td>
       <td>
         <!-- Top Languages Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuad665&layout=compact&theme=dark&hide_border=true&bg_color=080c14&title_color=34d399&text_color=94a3b8" alt="Langs" height="190" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuad665&layout=compact&hide_border=true&bg_color=020617&title_color=06b6d4&text_color=94a3b8" alt="Langs" height="190" />
       </td>
     </tr>
   </table>
@@ -173,24 +170,20 @@
   <br />
 
   <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuad665&theme=dark&hide_border=true&background=080c14&title=60a5fa&currStreakLabel=34d399&sideNums=94a3b8&sideLabels=94a3b8" alt="Streak" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuad665&hide_border=true&background=020617&title=06b6d4&currStreakLabel=10b981&sideNums=94a3b8&sideLabels=94a3b8&currStreakNum=10b981" alt="Streak" width="85%" />
 </div>
 
 <br />
 
 ---
 
-<h2 align="center">🐍 Contribution Art</h2>
+<h2 align="center">🏗️ Production-Grade System Architecture DNA</h2>
 
 <br />
 
 <div align="center">
-  <!-- Animated Contribution Snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fuad665/fuad665/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fuad665/fuad665/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/fuad665/fuad665/output/github-contribution-grid-snake.svg" width="85%" />
-  </picture>
+  <!-- Production Architecture Blueprint -->
+  <img src="./blueprint.svg" width="100%" alt="Production-Grade System Architecture DNA" />
 </div>
 
 <br />
