@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Profile Banner -->
-  <img src="./banner.svg" width="100%" alt="Fuad Hiybo Profile Banner" />
+  <img src="./banner.svg?v=2" width="100%" alt="Fuad Hiybo Profile Banner" />
 </div>
 
 <br />
@@ -183,7 +183,7 @@
 
 <div align="center">
   <!-- Production Architecture Blueprint -->
-  <img src="./blueprint.svg" width="100%" alt="Production-Grade System Architecture DNA" />
+  <img src="./blueprint.svg?v=2" width="100%" alt="Production-Grade System Architecture DNA" />
 </div>
 
 <br />
